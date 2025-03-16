@@ -1,4 +1,4 @@
-# waterpollutionmonitor
+# Water pollution monitor
 
 ## Description
 Researchers in Aberystwyth University have an idea to assess and monitor the effects of farm-related pollutants on Welsh water bodies.
