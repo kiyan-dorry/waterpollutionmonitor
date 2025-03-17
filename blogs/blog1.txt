@@ -1,0 +1,6 @@
+Blog 1
+
+I started off creating a project outline, writing a project description, the proposed work, the project deliverables, and including the references.
+Description: I explained how I'm creating an app that will display water pollution indicators on a map by clicking on water bodies.
+Proposed work: I mentioned were weekly meetings, a project diary, UI prototype, app, and more.
+Project deliverables: UI prototype, a well-run app, server-side storage and processing facilities, documentation
