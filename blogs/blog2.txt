@@ -1,0 +1,5 @@
+Blog 2
+
+I made a user stories document and a use case diagram.
+For the user stories I used the MoSCoW model (Must have, Should have, Could have, Won't have), including an acceptance criteria of clickable map functionality, data display, integration with biosensors, user-friendly interface, and accessavility.
+For the use case diagram, farm managers, researchers and policy makers are the users having access to viewing the map and viewing pollution data.
