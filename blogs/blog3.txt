@@ -1,0 +1,3 @@
+Blog 3
+
+I started creating a UI prototype from Figma to illustrate an idea of how the app would look, including a first screen of a map of Ceredigion with markers of where the tested water bodies are, with clickable features to show pollution data, a search bar to search for water bodies, and an options button to return to home screen or look at the dashboard, the dashboard shows the sites.
