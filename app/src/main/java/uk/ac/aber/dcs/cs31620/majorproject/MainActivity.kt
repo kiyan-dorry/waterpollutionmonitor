@@ -43,7 +43,7 @@ fun MapScreen() {
         cameraPositionState = cameraPositionState,
         properties = MapProperties(
             minZoomPreference = 9f, // minimum zoom
-            maxZoomPreference = 16f, // maximum zoom
+            maxZoomPreference = 20f, // maximum zoom
             latLngBoundsForCameraTarget = bounds // restricts panning
         )
     ) {

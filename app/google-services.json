@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126177836558",
+    "project_id": "water-quality-data-89e2d",
+    "storage_bucket": "water-quality-data-89e2d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126177836558:android:04013f53bab586f919465f",
+        "android_client_info": {
+          "package_name": "uk.ac.aber.dcs.cs31620.majorproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpmNxqnMlKRPqpThEup_XPoyU-kAtOWhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
