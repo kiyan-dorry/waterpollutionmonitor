@@ -1,0 +1,3 @@
+Blog 4
+
+Started off the app opening with a map marking Aberystwyth, taken from an API key from the Google Cloud Console, enabling maps SDK for Android. Bounded the latitude and longitude so users don't scroll away from Ceredigion. Limited the zoom so users don't zoom too far out from Ceredigion.
