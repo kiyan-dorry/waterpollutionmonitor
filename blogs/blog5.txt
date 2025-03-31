@@ -1,0 +1,3 @@
+Blog 5
+
+Worked on finding which dataset to use to add to my firebase database. Found a dataset for Teifi and North Ceredigion and exported it to a csv file. Decided on using the top 5 most used parameters on the dataset for the information displayed when clicking on the site on the map.
