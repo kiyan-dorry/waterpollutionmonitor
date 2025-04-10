@@ -1,0 +1,3 @@
+Blog 6
+
+Sorted out dataset for water bodies around North Ceredigion with the 5 most used parameters: Conductivity at 25C, Identity of hand held meter, "Oxygen, dissolved, % saturation", Temperature of water, pH in Situ
