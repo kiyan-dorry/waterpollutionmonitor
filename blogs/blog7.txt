@@ -1,0 +1,3 @@
+Blog 7
+
+Did mostly report work, however after successfully uploading data to my Firestore database, the program could not read the workspace metadata.
