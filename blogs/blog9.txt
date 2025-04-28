@@ -1,0 +1,3 @@
+Blog 9
+
+Completed the app, getting the app to display markers on the app of where the water bodies are and when clicking on them they display the name of the body followed by the water quality data. Also a search bar at the top was added to make it easy for users to search for water bodies by name.
